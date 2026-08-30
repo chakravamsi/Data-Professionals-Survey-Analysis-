@@ -159,6 +159,3 @@ git clone https://github.com/abhirupdas99/global-data-professionals-analysis-usi
 
 ---
 
-
-This is the same README content from your uploaded file, formatted so you can **copy → paste directly into GitHub's `README.md`**.
-```
